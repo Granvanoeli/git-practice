@@ -3,3 +3,6 @@ This is ANOTHER file:
 - Apple
 - Banana
 - Pear
+- Peach
+- Tomato
+- Melon
