@@ -3,7 +3,6 @@ This is a file I wrote in VIM to practice it as well as practicing git:
 - Cats
 - Dog
 - Mouse
-- Fly
 - Seagull
 - Gerbil
 - Squirrel
