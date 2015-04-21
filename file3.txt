@@ -1,0 +1,7 @@
+These are some cities:
+
+- Turin
+- Rome
+- Edinburgh
+- Singapore
+- Sidney
