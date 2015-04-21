@@ -5,3 +5,5 @@ These are some cities:
 - Edinburgh
 - Singapore
 - Sidney
+- Pamplona
+
